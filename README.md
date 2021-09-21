@@ -5,7 +5,7 @@
 
 This is super fun project I created using ReactJS and CSS. Usually I create my react projects using functional components and Hooks. So to learn more about class-based components and life cycle methods I created this project.
 
-> Hosted at: [Task manager API](http://sps-task-manager.herokuapp.com/)
+> Hosted at: [Find Your Monster](http://sps-task-manager.herokuapp.com/)
 
 
 
