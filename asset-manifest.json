@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/find-your-monster/static/css/main.00bd6403.chunk.css",
-    "main.js": "/find-your-monster/static/js/main.f04b21c6.chunk.js",
-    "main.js.map": "/find-your-monster/static/js/main.f04b21c6.chunk.js.map",
+    "main.js": "/find-your-monster/static/js/main.73780dba.chunk.js",
+    "main.js.map": "/find-your-monster/static/js/main.73780dba.chunk.js.map",
     "runtime-main.js": "/find-your-monster/static/js/runtime-main.ffb1e876.js",
     "runtime-main.js.map": "/find-your-monster/static/js/runtime-main.ffb1e876.js.map",
     "static/js/2.9a64e13f.chunk.js": "/find-your-monster/static/js/2.9a64e13f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ffb1e876.js",
     "static/js/2.9a64e13f.chunk.js",
     "static/css/main.00bd6403.chunk.css",
-    "static/js/main.f04b21c6.chunk.js"
+    "static/js/main.73780dba.chunk.js"
   ]
 }
